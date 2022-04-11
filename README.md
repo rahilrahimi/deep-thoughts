@@ -12,9 +12,6 @@
 
 <h2 align="center"> https://mighty-falls-23503.herokuapp.com/</h2>
 
-<!-- <p align="center">
-  <img src="https://github.com/jenn-renken/project3/blob/main/client/src/assets/images/logo.png" />
-</p> -->
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
